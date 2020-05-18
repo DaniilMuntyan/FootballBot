@@ -2,7 +2,7 @@ import telebot
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
-token = "935353360:AAE83gmB71BehP3mB9t6hGZEb-619WpKiTA"
+token = "YOUR_TOKEN"
 
 bot = telebot.TeleBot(token)
 
